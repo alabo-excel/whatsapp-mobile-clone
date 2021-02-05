@@ -16,9 +16,9 @@
           </div>
         </div>
         <div class="flex justify-evenly">
-          <h2>CALLS</h2>
-          <h2>CHATS</h2>
-          <h2>CONTACTS</h2>
+          <h2 class="p-4 w-1/3 text-center text-gray-300">CALLS</h2>
+          <h2 class="p-4 w-1/3 text-center border-b-2 border-white">CHATS</h2>
+          <h2 class="p-4 w-1/3 text-center text-gray-300">CONTACTS</h2>
         </div>
       </div>
     </header>
